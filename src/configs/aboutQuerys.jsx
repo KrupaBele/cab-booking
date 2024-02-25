@@ -4,7 +4,7 @@ export const aboutQuerys = {
     matter: (
       <div className="space-y-6 font-montserrat text-slate-500 text-sm">
         <p className="mt-3">
-          Not to brag, but Meru initiated the ride- hailing revolution in India
+          Not to brag, but Meru initiated the ride-hailing revolution in India
           where customers could easily have an AC cab at their doorstep with a
           single call. This goes way back in time when the black and yellow
           taxis (Kaali-peeli taxis) largely dominated our city roads.
